@@ -1,4 +1,10 @@
 export default function TimerChallenge({ title, targetTime }) {
+
+    const hanldeStart = 
+
+    function handleStart() {
+        setTimeout(() => {}, targetTime * 1000);
+    }
     return (
         <section className="challenge">
 
@@ -9,12 +15,12 @@ export default function TimerChallenge({ title, targetTime }) {
             </p>
 
             <p>
-                <button>
+                <button onClick={handleStart}>
                     Start Challenge
                 </button>
             </p>
 
-            <p className="">
+            <p className={timerStarted ? 'active': ''}>
                 Time is running... / Timer inactive
             </p>
 
