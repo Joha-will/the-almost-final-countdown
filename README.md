@@ -1,5 +1,6 @@
 # **The almost final countdown (ReactJS)**
 
+![the-almost-final-countdown](https://github.com/Joha-will/the-almost-final-countdown/assets/98041941/d1689d4b-4ab7-473c-830c-1be97cdc9bf9)
 
 This is a timer challenge game where, players must start and stop the timers before the specified amount of time runs out. This was a practice project I had to complete for the React course as part of my learning process. Building it was got a bit confusing at time managing all the time functions and passing props back and fought but it was enjoyable and fun to build. I learned a lot about using Components, State, Refs, Portals and more of React best practices and concepts.
 
