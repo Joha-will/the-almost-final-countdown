@@ -19,11 +19,6 @@ Here are some of the things I learn during this section of my React journey:
  * Detaching DOM rendering from JSX structures with Portals
 
 
-***How can it be improved?***
-------------------------------
-The project can be improved by implementing a single player mode, so that user can player against the computer. So effects or background music can also be an additional features.
-
-
   ***Technologies Used***
 ------------------------
 
